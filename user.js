@@ -1,1 +1,1 @@
-console.log('user near to die')
+console.log('version1')
