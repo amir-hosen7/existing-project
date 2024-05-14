@@ -1,1 +1,1 @@
-console.log('commit 2')
+console.log('conflict in master')
